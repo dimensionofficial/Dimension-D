@@ -1,5 +1,5 @@
 # Dimension-D
-Sidechain DImension-D for insurrance, tracing and notary
+Sidechain DImension-D for insurrance, tracing and notary.
 
 
 # Project Brief  
